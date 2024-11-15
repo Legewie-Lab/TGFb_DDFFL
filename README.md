@@ -5,4 +5,4 @@
 
 # TGFb dose-dependent gene regulation and cell-fate decisions
 
-The materials of reprodcing the results in the paper will be available after the paper is accepted for publication.
+This repository contains materials for mathematical modeling in the paper "Transcriptional regulators ensuring specific gene expression and decision-making at high TGFβ doses" published in Life Science Alliance by Hartmann et al. 2024. DOI: 10.26508/lsa.202402859
