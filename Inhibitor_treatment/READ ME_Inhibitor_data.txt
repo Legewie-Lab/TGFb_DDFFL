@@ -1,0 +1,13 @@
+Early inhibitor (90min after TGFb stimulation)
+Late inhibitor (300min/5h after TGFb stimulation)
+
+Inh: Inhibitor treatment control
+TGF: TGFb treatment (100pM) control
+TGF_Inh: TGFb+Inhibitor treatment
+
+03: 3h/ 180min post-stimulation with TGFb
+06: 6h/ 360min post-stimulation with TGFb
+08: 8h/ 480min post-stimulation with TGFb
+12: 12h/ 720min post-stimulation with TGFb
+
+fold changes generated to unstimulated control 
