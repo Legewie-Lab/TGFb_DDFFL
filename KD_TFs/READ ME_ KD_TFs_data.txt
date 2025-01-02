@@ -1,0 +1,21 @@
+A: SMAD2 KD
+B: SMAD3 KD
+C: SNAI1 KD
+D: SNAI2 KD
+E: RUNX1 KD
+F: SKIL KD
+G: SKI KD
+H: JUNB KD
+I: JUN KD
+J: KLF10 KD
+K: ATF3 KD
+N: NTC (non-targeting control)
+W: WT (wildtype)
+
+t1: 1.5h post-stimulation with 100pM TGFb
+t2: 12h post-stimulation with 100pM TGFb
+
+t3: 3h post-stimulation with 100pM TGFb
+t4: 6h post-stimulation with 100pM TGFb
+
+fold changes generated to unstimulated control t0
