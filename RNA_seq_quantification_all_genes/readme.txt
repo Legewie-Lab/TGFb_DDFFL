@@ -1,0 +1,1 @@
+The CSV file contains the quantification of mRNA expression (RPKM) for all genes in control (ctrl) condition,  low (low) and high (high) TGFb stimulation at different time points (0, 45, 90, 180, 360, 720 and 1440 min). Three replicates were measured for each time point and condition (R1, R2 and R3). 
