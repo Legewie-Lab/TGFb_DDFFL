@@ -2,19 +2,16 @@ The CSV file contains the quantification of mRNA expression (RPKM) for all genes
 Column Descriptions
 
     Gene Identifiers:
-    The rows typically contain gene names or IDs.
+    The rows typically contain gene names and the RPKM values.
 
-    RPKM Values:
-    RNA-seq data is quantified using RPKM (Reads Per Kilobase of transcript per Million mapped reads). This normalization accounts for gene length and sequencing depth.
-
-    Columns R1, R2, R3:
-    Indicate biological replicates.
+    Columns
         R1, R2, R3: The replicate number.
         ctl: Indicates control samples.
         low/high: Indicates TGFβ dosage (low or high concentration).
+        The numbers in the column names (e.g., 45, 90, etc.) represent the time points in minutes at which the measurements were taken.
 
-Example Column Naming Convention:
+Example Column Naming Convention
 
-    R1_ctl: Replicate 1, control condition.
-    R2_high: Replicate 2, high TGFβ dosage.
-    R3_low: Replicate 3, low TGFβ dosage
+    R1_ctl_45: Replicate 1, control condition, 45-minute time point.
+    R2_high_90: Replicate 2, high TGFβ dosage, 90-minute time point.
+    R3_low_360: Replicate 3, low TGFβ dosage, 360-minute time point.
