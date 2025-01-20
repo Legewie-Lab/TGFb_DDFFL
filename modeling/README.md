@@ -32,3 +32,6 @@ How to Use
 
     Use arrange_data_smad to prepare the experimental data and create the required Data files.
     Run Setup_smad to fit the models to the data. Results will be saved as .mat files in the appropriate folders.
+
+The excel file "fitting_data.xlsx" contains model fitting details, i.e., best fit parameters, best selected models, Chi2 values, fitted and measured mRNA fold change, for all recorded genes. All genes were catagorized into three classes: genes accepted by simple activation or repression model (table tab "simple_model"), genes rejected by the simple model but accepted by the FFL model (table tab "FFL"), as well as genes rejected by both simple and FFL models (table tab "rejected").   
+
